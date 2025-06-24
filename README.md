@@ -12,3 +12,7 @@ A Collection of papers I am reading related to Large signal models
 - [Photoplethysmography Features Correlated with Blood Pressure Changes](https://www.mdpi.com/2075-4418/14/20/2309)
 
 
+---
+
+# Juhyeon Uncertainty papers
+- [Representation Uncertainty in Self-Supervised Learning as Variational Inference](https://arxiv.org/pdf/2203.11437)
