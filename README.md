@@ -6,6 +6,7 @@ A Collection of papers I am reading related to Large signal models
 - [Towards Physics-Guided Foundation Models](https://arxiv.org/abs/2502.15013v1)
 - [LARGE-SCALE TRAINING OF FOUNDATION MODELS FOR WEARABLE BIOSIGNALS](https://arxiv.org/abs/2312.05409) (multimodal ppg-ecg)
 - [Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications Across Lab and Field Settings](https://arxiv.org/abs/2502.01108v1) (ppg)
+- [Self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://www.nature.com/articles/s41746-024-01062-3#further-reading) (acc)
 
 # morephological features 
 - [Features from the photoplethysmogram and the electrocardiogram for estimating changes in blood pressure](https://www.nature.com/articles/s41598-022-27170-2)
