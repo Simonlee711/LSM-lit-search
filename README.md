@@ -21,3 +21,4 @@ A Collection of papers I am reading related to Large signal models
 
 # Juhyeon Uncertainty papers
 - [Representation Uncertainty in Self-Supervised Learning as Variational Inference](https://arxiv.org/pdf/2203.11437)
+- [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://arxiv.org/abs/2402.05956)
