@@ -15,10 +15,13 @@ A Collection of papers I am reading related to Large signal models
 
 # time series paper
 - [CoMRes: Semi-Supervised Time Series Forecasting Utilizing Consensus Promotion of Multi-Resolution](https://openreview.net/forum?id=bRa4JLPzii&noteId=iI7xlVG9pG)
+- [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://arxiv.org/abs/2402.05956)
+- [SkipViT: Speeding Up Vision Transformers with a Token-Level Skip Connection](https://arxiv.org/pdf/2401.15293)
+- [SKIP-ATTENTION: IMPROVING VISION TRANSFORMERS BY PAYING LESS ATTENTION](https://openreview.net/pdf?id=vI95kcLAoU)
 
 
 ---
 
 # Juhyeon Uncertainty papers
 - [Representation Uncertainty in Self-Supervised Learning as Variational Inference](https://arxiv.org/pdf/2203.11437)
-- [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://arxiv.org/abs/2402.05956)
+
