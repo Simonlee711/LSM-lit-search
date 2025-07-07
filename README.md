@@ -13,6 +13,9 @@ A Collection of papers I am reading related to Large signal models
 - [Features from the photoplethysmogram and the electrocardiogram for estimating changes in blood pressure](https://www.nature.com/articles/s41598-022-27170-2)
 - [Photoplethysmography Features Correlated with Blood Pressure Changes](https://www.mdpi.com/2075-4418/14/20/2309)
 
+# time series paper
+- [CoMRes: Semi-Supervised Time Series Forecasting Utilizing Consensus Promotion of Multi-Resolution](https://openreview.net/forum?id=bRa4JLPzii&noteId=iI7xlVG9pG)
+
 
 ---
 
