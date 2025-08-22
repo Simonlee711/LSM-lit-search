@@ -19,6 +19,7 @@ A Collection of papers I am reading related to Large signal models
 - [SkipViT: Speeding Up Vision Transformers with a Token-Level Skip Connection](https://arxiv.org/pdf/2401.15293)
 - [SKIP-ATTENTION: IMPROVING VISION TRANSFORMERS BY PAYING LESS ATTENTION](https://openreview.net/pdf?id=vI95kcLAoU)
 - [Do Vision Transformers See Like Convolutional Neural Networks?](https://proceedings.neurips.cc/paper/2021/file/652cf38361a209088302ba2b8b7f51e0-Paper.pdf)
+- [DENSITY-BASED NEURAL TEMPORAL POINT PROCESSES FOR HEARTBEAT DYNAMICS](https://openreview.net/pdf?id=CRTVmL4VBv)
 
 # JEPA-Wearables idea
 - [S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention](https://arxiv.org/abs/2403.11772)
