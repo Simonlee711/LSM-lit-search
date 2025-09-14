@@ -8,6 +8,7 @@ A Collection of papers I am reading related to Large signal models
 - [Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications Across Lab and Field Settings](https://arxiv.org/abs/2502.01108v1) (ppg)
 - [Self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://www.nature.com/articles/s41746-024-01062-3#further-reading) (acc)
 - [Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions](https://openreview.net/forum?id=DtVVltU1ak) (behavioral features)
+- https://arxiv.org/pdf/2205.13147
 
 # morephological features 
 - [Features from the photoplethysmogram and the electrocardiogram for estimating changes in blood pressure](https://www.nature.com/articles/s41598-022-27170-2)
