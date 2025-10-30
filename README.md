@@ -27,6 +27,10 @@ A Collection of papers I am reading related to Large signal models
 # architecture papers
 - [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
 
+# Age-PPG
+- [A wearable-based aging clock associates with disease and behavior](https://www.nature.com/articles/s41467-025-64275-4)
+- [Artificial Intelligence-derived Photoplethysmography Age as a Digital Biomarker for Cardiovascular Health](https://arxiv.org/abs/2502.12990)
+
 
 ---
 
