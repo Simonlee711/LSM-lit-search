@@ -9,6 +9,7 @@ A Collection of papers I am reading related to Large signal models
 - [Self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://www.nature.com/articles/s41746-024-01062-3#further-reading) (acc)
 - [Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions](https://openreview.net/forum?id=DtVVltU1ak) (behavioral features)
 - [A foundational vision transformer improves diagnostic performance for electrocardiograms](https://www.nature.com/articles/s41746-023-00840-9) (ecg)
+- [Physics-informed neural networks for modeling physiological time series for cuffless blood pressure estimation](https://www.nature.com/articles/s41746-023-00853-4#Sec2)
 
 # morephological features 
 - [Features from the photoplethysmogram and the electrocardiogram for estimating changes in blood pressure](https://www.nature.com/articles/s41598-022-27170-2)
@@ -24,8 +25,9 @@ A Collection of papers I am reading related to Large signal models
 # JEPA-Wearables idea
 - [S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention](https://arxiv.org/abs/2403.11772)
 
-# architecture papers
+# vision based (2d) wearable FMs
 - [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
+- [Vision4PPG: Emergent PPG Analysis Capability of Vision Foundation Models for Vital Signs like Blood Pressure](https://arxiv.org/abs/2510.10366)
 
 # Age-PPG
 - [A wearable-based aging clock associates with disease and behavior](https://www.nature.com/articles/s41467-025-64275-4)
