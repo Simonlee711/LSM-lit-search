@@ -23,6 +23,7 @@ A Collection of papers I am reading related to Large signal models
 - [Do Vision Transformers See Like Convolutional Neural Networks?](https://proceedings.neurips.cc/paper/2021/file/652cf38361a209088302ba2b8b7f51e0-Paper.pdf)
 - [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363)
 - [TIME-MOE: BILLION-SCALE TIME SERIES FOUNDATION MODELS WITH MIXTURE OF EXPERTS](https://arxiv.org/pdf/2409.16040)
+- [BRAINMOE: TOWARDS UNIVERSAL EEG FOUNDATION MODELS WITH CHANNEL-WISE MIXTURE-OF-EXPERTS](https://openreview.net/attachment?id=hWyeiVFZ0q&name=pdf)
 
 # JEPA-Wearables idea
 - [S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention](https://arxiv.org/abs/2403.11772)
