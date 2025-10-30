@@ -25,12 +25,16 @@ A Collection of papers I am reading related to Large signal models
 - [TIME-MOE: BILLION-SCALE TIME SERIES FOUNDATION MODELS WITH MIXTURE OF EXPERTS](https://arxiv.org/pdf/2409.16040)
 - [BRAINMOE: TOWARDS UNIVERSAL EEG FOUNDATION MODELS WITH CHANNEL-WISE MIXTURE-OF-EXPERTS](https://openreview.net/attachment?id=hWyeiVFZ0q&name=pdf)
 
-# JEPA-Wearables idea
+# SSL Ideas
 - [S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention](https://arxiv.org/abs/2403.11772)
+- [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities](https://arxiv.org/pdf/2411.01053)
 
 # vision based (2d) wearable FMs
 - [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
 - [Vision4PPG: Emergent PPG Analysis Capability of Vision Foundation Models for Vital Signs like Blood Pressure](https://arxiv.org/abs/2510.10366)
+- [Masked VAE: Distributionally-Informed Self-Supervised Vision Learning](https://openreview.net/forum?id=tt0SCefKQL&referrer=%5Bthe%20profile%20of%20Gabe%20Guo%5D(%2Fprofile%3Fid%3D~Gabe_Guo1))
+- [VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding](https://arxiv.org/pdf/2211.00430)
+- []
 
 # Age-PPG
 - [A wearable-based aging clock associates with disease and behavior](https://www.nature.com/articles/s41467-025-64275-4)
